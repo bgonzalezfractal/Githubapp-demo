@@ -6,7 +6,7 @@ import time
 import concurrent.futures
 from git import Repo
 
-
+# testing a new entity Benjamin Gonzalez the author
 
 class Issues:
     def search_issues(self, token: str, url: str):
